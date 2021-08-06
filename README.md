@@ -1,4 +1,4 @@
-<h1> hello i'm @cristobers, welcome to my github page.</h1>
+<h1> hello i'm cristober, welcome to my github page.</h1>
 <p1> here have a fizzbuzz</p1>
 
 ```python
