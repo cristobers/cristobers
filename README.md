@@ -1,4 +1,4 @@
-<h1> hello, i'm @cristobers. welcome to my github page.</h1>
+<h1> hello i'm @cristobers, welcome to my github page.</h1>
 <p1> here have a fizzbuzz</p1>
 
 ```python
@@ -15,6 +15,5 @@ for x in range(1,101):
         print("Fizz")
     else:
         print(x)
-
 ```
 
