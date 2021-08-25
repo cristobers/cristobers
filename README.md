@@ -17,3 +17,6 @@ for x in range(1,101):
         print(x)
 ```
 <p2> ok see you </p2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobers&layout=compact&langs_count=10)](https://github.com/cristobers/github-readme-stats)
+
